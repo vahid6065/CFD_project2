@@ -16,7 +16,7 @@ clear ;
 %%%%%%%%%%%%%%%%%%
 degree = 1;  % 1 for 15 degre and 2 for 35 degree
 
-if degree ~= 3    
+if 1 || 2  
     N_m=5;
 else
     N_m=1;    
